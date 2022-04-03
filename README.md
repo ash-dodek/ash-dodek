@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, welcome to my profile 👋
+### **Languages interested in**: c++ c java python 
 ![ash-dodek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-dodek&show_icons=true&theme=radical)
 
 <!--
