@@ -1,8 +1,7 @@
 ### Hi there, welcome to my profile 👋
-#### **Languages interested in**: **c++** || **c** || **java** || **python**
-![ash-dodek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-dodek&show_icons=true&theme=radical)
+#### **Languages interested in**: **C++** || *C** || **Java** || **Python** || **Javascript** || **HTML/CSS**
 
-<!--
+<!-- 
 **ash-dodek/ash-dodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
