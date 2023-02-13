@@ -1,5 +1,5 @@
 ### Hi there, welcome to my profile 👋
-#### **Languages interested in**: **C++** || *C** || **Java** || **Python** || **Javascript** || **HTML/CSS**
+#### **Languages I'm interested in interested in**: **C++** || *C** || **Java** || **Python** || **Javascript** || **HTML/CSS**
 
 <!-- 
 **ash-dodek/ash-dodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
