@@ -1,6 +1,9 @@
 ### Hi there, welcome to my profile 👋
-#### **Languages I'm interested in interested in**: **C++** || *C** || **Java** || **Python** || **Javascript** || **HTML/CSS**
+I'm Harsh (a.k.a. ash-dodek), a passionate developer. I love building projects that solve real-world problems and add value to life of people out there!
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-dodek&layout=compact&theme=radical)
+
+Reach out to me via email at ```harsh.devistrue@gmail.com```
 <!-- 
 **ash-dodek/ash-dodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
